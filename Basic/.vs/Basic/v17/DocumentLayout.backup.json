@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\datatype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|solutionrelative:Basic\\datatype.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|solutionrelative:Basic\\variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A3E1BB0-AB64-4A3B-BCBB-E44761657A3C}|Basic\\Basic.vcxproj|solutionrelative:Basic\\print.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datatype.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\datatype.c",
+              "RelativeDocumentMoniker": "Basic\\datatype.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\datatype.c*",
+              "RelativeToolTip": "Basic\\datatype.c*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-21T06:08:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "variable.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\variable.c",
+              "RelativeDocumentMoniker": "Basic\\variable.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\variable.c",
+              "RelativeToolTip": "Basic\\variable.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-21T05:18:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "print.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\print.c",
+              "RelativeDocumentMoniker": "Basic\\print.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\print.c",
+              "RelativeToolTip": "Basic\\print.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-21T04:14:20.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
