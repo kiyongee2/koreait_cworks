@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Basic\\bread.c",
               "ToolTip": "C:\\cworks\\Basic\\Basic\\bread.c",
               "RelativeToolTip": "Basic\\bread.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-22T06:11:02.04Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Basic\\calculator.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-22T05:56:40.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T05:56:40.923Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Basic\\inputEx.c",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-22T05:40:53.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T05:40:53.304Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Basic\\operatorEx.c",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-22T04:47:15.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T04:47:15.913Z"
             },
             {
               "$type": "Document",

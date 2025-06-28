@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //printf()
 //실습문제 2
 
 int main()
@@ -10,8 +10,8 @@ int main()
 	몫 = bread / person; //몫
 	나머지 = bread % person; //나머지
 	
-	printf("각자의 몫: %d\n", 몫);
-	printf("남은빵의 개수: %d\n", 나머지);
+	printf("각자의 몫: %d\n", 몫);  //3
+	printf("남은빵의 개수: %d\n", 나머지); //1
 
 	return 0;
 }
