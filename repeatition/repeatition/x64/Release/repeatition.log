@@ -1,0 +1,8 @@
+﻿forEx1.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+forEx2.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+gugudan.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+nestedFor.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+whileBreak.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+whileEx1.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+whileEx2.obj : error LNK2005: main이(가) coffeeMachine.obj에 이미 정의되어 있습니다.
+C:\cworks\repeatition\x64\Release\repeatition.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

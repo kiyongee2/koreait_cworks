@@ -1,0 +1,8 @@
+﻿  coffeMachine.c
+C:\cworks\coffeeMachine\coffeeMachine\coffeMachine.c(42,2): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다.
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  coffeeMachine.vcxproj -> C:\cworks\coffeeMachine\x64\Release\coffeeMachine.exe

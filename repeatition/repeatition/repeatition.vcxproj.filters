@@ -21,5 +21,29 @@
     <ClCompile Include="whileBreak.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="forEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="forEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nestedFor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="whileEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="coffeeMachine.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

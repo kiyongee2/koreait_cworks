@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\cworks\\repeatition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\whileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\whileBreak.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\whileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\whileEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "whileBreak.c",
-              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\whileBreak.c",
-              "RelativeDocumentMoniker": "repeatition\\whileBreak.c",
-              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\whileBreak.c",
-              "RelativeToolTip": "repeatition\\whileBreak.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Title": "practice2.c",
+              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\practice2.c",
+              "RelativeDocumentMoniker": "repeatition\\practice2.c",
+              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\practice2.c",
+              "RelativeToolTip": "repeatition\\practice2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-28T06:10:10.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "whileEx1.c",
-              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\whileEx1.c",
-              "RelativeDocumentMoniker": "repeatition\\whileEx1.c",
-              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\whileEx1.c",
-              "RelativeToolTip": "repeatition\\whileEx1.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-28T05:34:07.464Z",
+              "WhenOpened": "2025-06-29T06:11:32.81Z",
               "EditorCaption": ""
             }
           ]
