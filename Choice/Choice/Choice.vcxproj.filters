@@ -27,5 +27,14 @@
     <ClCompile Include="scorePoint.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="leafYear.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switchCaseEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switchCaseEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
