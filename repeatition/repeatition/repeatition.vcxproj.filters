@@ -45,5 +45,14 @@
     <ClCompile Include="practice2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calcTimes.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="doWhileEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="seats.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

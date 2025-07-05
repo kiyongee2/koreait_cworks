@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\cworks\\repeatition\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\seats.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\nestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\nestedFor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\doWhileEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\doWhileEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\calcTimes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\calcTimes.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|C:\\cworks\\repeatition\\repeatition\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2261DA8D-9436-49C7-8A8F-671648952AEE}|repeatition\\repeatition.vcxproj|solutionrelative:repeatition\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "seats.c",
+              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\seats.c",
+              "RelativeDocumentMoniker": "repeatition\\seats.c",
+              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\seats.c",
+              "RelativeToolTip": "repeatition\\seats.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-05T05:03:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nestedFor.c",
+              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\nestedFor.c",
+              "RelativeDocumentMoniker": "repeatition\\nestedFor.c",
+              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\nestedFor.c",
+              "RelativeToolTip": "repeatition\\nestedFor.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-05T04:51:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "doWhileEx.c",
+              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\doWhileEx.c",
+              "RelativeDocumentMoniker": "repeatition\\doWhileEx.c",
+              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\doWhileEx.c",
+              "RelativeToolTip": "repeatition\\doWhileEx.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-05T04:40:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calcTimes.c",
+              "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\calcTimes.c",
+              "RelativeDocumentMoniker": "repeatition\\calcTimes.c",
+              "ToolTip": "C:\\cworks\\repeatition\\repeatition\\calcTimes.c",
+              "RelativeToolTip": "repeatition\\calcTimes.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-05T04:16:33.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "practice2.c",
               "DocumentMoniker": "C:\\cworks\\repeatition\\repeatition\\practice2.c",
               "RelativeDocumentMoniker": "repeatition\\practice2.c",
               "ToolTip": "C:\\cworks\\repeatition\\repeatition\\practice2.c",
               "RelativeToolTip": "repeatition\\practice2.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-29T06:11:32.81Z",
               "EditorCaption": ""
