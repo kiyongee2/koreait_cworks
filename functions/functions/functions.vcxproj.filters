@@ -18,5 +18,41 @@
     <ClCompile Include="voidFunctions.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="returnFunctions.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="returnFunctions2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variableScope.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variableScope2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="staticVariable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mathEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="timeEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="randEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gueseNumber.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="getCharEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inputErrorEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="functionString.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

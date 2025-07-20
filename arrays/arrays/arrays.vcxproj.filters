@@ -48,5 +48,11 @@
     <ClCompile Include="practice.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array2DEx1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array2DEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
