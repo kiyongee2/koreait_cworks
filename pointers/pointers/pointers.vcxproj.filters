@@ -33,5 +33,14 @@
     <ClCompile Include="callByRef.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pointerFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calcSum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
