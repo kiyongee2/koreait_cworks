@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\MemoryAllocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\mallocCalc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\mallocEx2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081C3461-0D85-4FD8-B870-29A1D9222754}|MemoryAllocation\\MemoryAllocation.vcxproj|solutionrelative:MemoryAllocation\\mallocEx1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mallocCalc.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocCalc.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\mallocCalc.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocCalc.c*",
+              "RelativeToolTip": "MemoryAllocation\\mallocCalc.c*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-27T05:58:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mallocEx2.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx2.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\mallocEx2.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx2.c",
+              "RelativeToolTip": "MemoryAllocation\\mallocEx2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-27T05:43:03.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mallocEx1.c",
+              "DocumentMoniker": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx1.c",
+              "RelativeDocumentMoniker": "MemoryAllocation\\mallocEx1.c",
+              "ToolTip": "C:\\cworks\\MemoryAllocation\\MemoryAllocation\\mallocEx1.c",
+              "RelativeToolTip": "MemoryAllocation\\mallocEx1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-27T05:18:50.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

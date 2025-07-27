@@ -14,12 +14,15 @@ int main()
 	int n = 1;  //문제 번호
 	char question[20]; //문제
 	char answer[20];   //사용자 정답
+	clock_t start, end;  //시작, 종료시간
+	double elapsedTime;  //소요시간
 
 	srand(time(NULL)); //난수 생성을 위한 시드 설정
 
 	printf("[영어 타자 게임], 준비되면 엔터> ");
 	getchar();  //'\n'(개행 문자)
 
+	start = clock();  //게임 시작 시간
 	while (n <= 10) {
 		printf("\n문제 %d\n", n);
 		int size = sizeof(words) / sizeof(words[0]);
@@ -37,7 +40,9 @@ int main()
 			printf("오타! 다시 도전!\n");
 		}
 	}
-	printf("게임 종료!");
+	end = clock();
+	elapsedTime = (double)(end - start) / CLOCKS_PER_SEC;
+	printf("게임 소요 시간: %.2lf초\n", elapsedTime);
 
 	return 0;
 }
