@@ -60,5 +60,14 @@
     <ClCompile Include="coinGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="myPow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="timeEx2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typingGame.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
