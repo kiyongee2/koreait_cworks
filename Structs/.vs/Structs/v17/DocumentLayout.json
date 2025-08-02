@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Structs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\pointRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|solutionrelative:Structs\\pointRectangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\structPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|solutionrelative:Structs\\structPerson2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|C:\\cworks\\Structs\\Structs\\structPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C9749FF-BB39-47EA-A137-14E8DBF7FFEF}|Structs\\Structs.vcxproj|solutionrelative:Structs\\structPerson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointRectangle.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\pointRectangle.c",
+              "RelativeDocumentMoniker": "Structs\\pointRectangle.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\pointRectangle.c",
+              "RelativeToolTip": "Structs\\pointRectangle.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T06:06:10.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "structPerson2.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\structPerson2.c",
+              "RelativeDocumentMoniker": "Structs\\structPerson2.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\structPerson2.c",
+              "RelativeToolTip": "Structs\\structPerson2.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T05:55:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "structPerson.c",
+              "DocumentMoniker": "C:\\cworks\\Structs\\Structs\\structPerson.c",
+              "RelativeDocumentMoniker": "Structs\\structPerson.c",
+              "ToolTip": "C:\\cworks\\Structs\\Structs\\structPerson.c",
+              "RelativeToolTip": "Structs\\structPerson.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T05:38:28.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

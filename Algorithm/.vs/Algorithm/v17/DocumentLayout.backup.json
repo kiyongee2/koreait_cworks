@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Algorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\arrayBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayBar2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\arrayBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arrayBar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\arraySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arraySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\arraySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\arraySearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\calcSum2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\calcSum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrayBar2.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\arrayBar2.c",
+              "RelativeDocumentMoniker": "Algorithm\\arrayBar2.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\arrayBar2.c",
+              "RelativeToolTip": "Algorithm\\arrayBar2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T04:50:29.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arrayBar.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\arrayBar.c",
+              "RelativeDocumentMoniker": "Algorithm\\arrayBar.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\arrayBar.c",
+              "RelativeToolTip": "Algorithm\\arrayBar.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T04:33:59.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arraySearch2.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\arraySearch2.c",
+              "RelativeDocumentMoniker": "Algorithm\\arraySearch2.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\arraySearch2.c",
+              "RelativeToolTip": "Algorithm\\arraySearch2.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T04:10:50.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arraySearch.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\arraySearch.c",
+              "RelativeDocumentMoniker": "Algorithm\\arraySearch.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\arraySearch.c",
+              "RelativeToolTip": "Algorithm\\arraySearch.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T04:00:39.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calcSum2.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\calcSum2.c",
+              "RelativeDocumentMoniker": "Algorithm\\calcSum2.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\calcSum2.c",
+              "RelativeToolTip": "Algorithm\\calcSum2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T03:43:17.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "calcSum.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\calcSum.c",
+              "RelativeDocumentMoniker": "Algorithm\\calcSum.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\calcSum.c",
+              "RelativeToolTip": "Algorithm\\calcSum.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T03:36:19.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
