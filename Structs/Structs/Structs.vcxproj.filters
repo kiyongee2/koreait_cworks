@@ -24,5 +24,11 @@
     <ClCompile Include="pointRectangle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="structEmployee.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="subjectStudent.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

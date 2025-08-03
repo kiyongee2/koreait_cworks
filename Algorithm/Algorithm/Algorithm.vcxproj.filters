@@ -33,5 +33,23 @@
     <ClCompile Include="arrayBar2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stringReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringReverse2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stringConcat.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sosEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
