@@ -51,5 +51,20 @@
     <ClCompile Include="factorial2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="findMax1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="findMax2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="findMaxHeight.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
