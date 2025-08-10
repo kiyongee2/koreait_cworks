@@ -30,5 +30,14 @@
     <ClCompile Include="subjectStudent.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="structPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structTM.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structPointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
