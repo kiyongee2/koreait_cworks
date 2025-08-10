@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdbool.h> //true/false
 #include <string.h> //strcmp(), strcpy()
+#include "BankAccount.h"
 /*
     은행 시스템
 	- 은행 계좌: BankAccount 구조체 정의
@@ -11,15 +12,8 @@
 #define OWNER_LEN 30
 #define MAX_ACCOUNTS 100
 
-typedef struct {
-	char ano[ANO_LEN]; //계좌 번호
-	char owner[OWNER_LEN]; //예금주
-	int balance;    //잔고
-}BankAccount;
-
-//전역 공간
 BankAccount accounts[MAX_ACCOUNTS];  //계좌 배열 생성
-int accountCount = 0;  //현재 계좌수
+int accountCount = 0;    //현재 계좌수
 
 //계좌 생성
 void createAccount() {
@@ -135,44 +129,3 @@ void displayAccount() {
 	}
 }
 
-int main()
-{
-	bool run = true;  //상태 변수(실행/종료)
-	int choice;  //메뉴 선택
-
-	while (run) {
-		printf("=======================================================\n");
-		printf("1.계좌 생성 | 2.예금 | 3.출금 | 4. 계좌 목록 | 5.종료 \n");
-		printf("=======================================================\n");
-		printf("선택> ");
-
-		scanf("%d", &choice);
-		switch (choice) {
-		case 1:
-			//계좌 생성
-			createAccount();
-			break;
-		case 2:
-			//예금
-			deposit();
-			break;
-		case 3:
-			//출금
-			withdraw();
-			break;
-		case 4:
-			//계좌 정보
-			displayAccount();
-			break;
-		case 5:
-			printf("프로그램을 종료합니다.\n");
-			run = false;  //종료
-			break;
-		default:
-			puts("잘못된 입력입니다. 다시 입력하세요.");
-			break;
-		}
-	}
-
-	return 0;
-}
