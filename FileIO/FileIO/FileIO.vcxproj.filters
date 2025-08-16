@@ -21,5 +21,8 @@
     <ClCompile Include="fileRead1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="asciiWrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

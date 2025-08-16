@@ -21,6 +21,13 @@ int main()
 	//문자 1개 쓰기 - fputc()
 	fputc('H', fp);
 	fputc('e', fp);
+	fputc('l', fp);
+	fputc('l', fp);
+	fputc('o', fp);
+
+	//문자열 쓰기
+	fputs("\napple\n", fp);  //'\n' - 줄바꿈
+	fputs("사과\n", fp);  //'\n' - 줄바꿈
 
 	//파일 종료
 	fclose(fp);
