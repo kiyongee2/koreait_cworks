@@ -1,2 +1,5 @@
-﻿  binarySerarch.c
+﻿  binarySearch2.c
+C:\cworks\Algorithm\Algorithm\binarySearch2.c(26,17): warning C4101: 'mid' :참조되지 않은 지역 변수입니다.
+C:\cworks\Algorithm\Algorithm\binarySearch2.c(26,6): warning C4101: 'low' :참조되지 않은 지역 변수입니다.
+C:\cworks\Algorithm\Algorithm\binarySearch2.c(26,11): warning C4101: 'high' :참조되지 않은 지역 변수입니다.
   Algorithm.vcxproj -> C:\cworks\Algorithm\x64\Debug\Algorithm.exe

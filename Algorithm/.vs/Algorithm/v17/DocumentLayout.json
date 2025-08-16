@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\cworks\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\binarySearch2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\binarySerarch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\binarySerarch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\sequentialSearch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\selectionSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\selectionSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\bubbleSort2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|C:\\cworks\\Algorithm\\Algorithm\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23A7FA72-D8E5-4794-938D-5C12D0FD6237}|Algorithm\\Algorithm.vcxproj|solutionrelative:Algorithm\\bubbleSort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "binarySearch2.c",
+              "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\binarySearch2.c",
+              "RelativeDocumentMoniker": "Algorithm\\binarySearch2.c",
+              "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\binarySearch2.c",
+              "RelativeToolTip": "Algorithm\\binarySearch2.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-16T03:46:35.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "binarySerarch.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\binarySerarch.c",
               "RelativeDocumentMoniker": "Algorithm\\binarySerarch.c",
               "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\binarySerarch.c",
               "RelativeToolTip": "Algorithm\\binarySerarch.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-10T06:17:34.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "sequentialSearch.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\sequentialSearch.c",
               "RelativeDocumentMoniker": "Algorithm\\sequentialSearch.c",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Algorithm\\sequentialSearch.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-10T06:06:48.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T06:06:48.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "selectionSort2.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\selectionSort2.c",
               "RelativeDocumentMoniker": "Algorithm\\selectionSort2.c",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Algorithm\\selectionSort2.c",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-10T05:54:41.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T05:54:41.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "selectionSort.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\selectionSort.c",
               "RelativeDocumentMoniker": "Algorithm\\selectionSort.c",
@@ -85,33 +100,33 @@
               "RelativeToolTip": "Algorithm\\selectionSort.c",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-10T05:43:02.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T05:43:02.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "bubbleSort2.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\bubbleSort2.c",
               "RelativeDocumentMoniker": "Algorithm\\bubbleSort2.c",
               "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\bubbleSort2.c",
               "RelativeToolTip": "Algorithm\\bubbleSort2.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-09T05:14:45.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "bubbleSort.c",
               "DocumentMoniker": "C:\\cworks\\Algorithm\\Algorithm\\bubbleSort.c",
               "RelativeDocumentMoniker": "Algorithm\\bubbleSort.c",
               "ToolTip": "C:\\cworks\\Algorithm\\Algorithm\\bubbleSort.c",
               "RelativeToolTip": "Algorithm\\bubbleSort.c",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwDEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-09T04:58:07.916Z"
+              "WhenOpened": "2025-08-09T04:58:07.916Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -13,8 +13,8 @@ void bubbleSorting(int a[], int n) {
 	int i, j, temp;  //temp(교환을 위한 임시변수)
 
 	//비교와 교환 반복
-	for (i = 0; i < 5; i++) {
-		for (j = 0; j < 4; j++) {
+	for (i = 0; i < n; i++) {
+		for (j = 0; j < n-1-i; j++) {
 			//비교 구문
 			if (a[j] > a[j + 1]) { //"<" 내림차순 정렬
 				//교환 처리
@@ -28,14 +28,14 @@ void bubbleSorting(int a[], int n) {
 
 int main()
 {
-	int arr[] = { 41, 8, 36, 77, 15 };
+	int arr[] = { 41, 8, 36, 77, 15, 28 };
 	int size; //배열의 크기
 	size = sizeof(arr) / sizeof(arr[0]);
 	//버블 정렬 함수 호출
 	bubbleSorting(arr, size);
 
 	//출력
-	for (int i = 0; i < 5; i++) {
+	for (int i = 0; i < size; i++) {
 		printf("%d ", arr[i]);  //8 15 36 41 77
 	}
 
