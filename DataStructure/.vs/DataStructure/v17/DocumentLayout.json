@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\cworks\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\stackIntStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\queueEx.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\stackInt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\stringReverse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|solutionrelative:DataStructure\\stackIntStruct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79368081-0BE7-4EE2-AD06-48A3A554A608}|DataStructure\\DataStructure.vcxproj|C:\\cworks\\DataStructure\\DataStructure\\stackChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,25 +25,50 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 2643,
+          "DockedWidth": 2735,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "stackIntStruct.c",
-              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c",
-              "RelativeDocumentMoniker": "DataStructure\\stackIntStruct.c",
-              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c",
-              "RelativeToolTip": "DataStructure\\stackIntStruct.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Title": "queueEx.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\queueEx.c",
+              "RelativeDocumentMoniker": "DataStructure\\queueEx.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\queueEx.c",
+              "RelativeToolTip": "DataStructure\\queueEx.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-16T05:04:38.226Z",
+              "WhenOpened": "2025-08-17T05:47:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringReverse.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stringReverse.c",
+              "RelativeDocumentMoniker": "DataStructure\\stringReverse.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\stringReverse.c",
+              "RelativeToolTip": "DataStructure\\stringReverse.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-17T05:08:42.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "stackIntStruct.c",
+              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c",
+              "RelativeDocumentMoniker": "DataStructure\\stackIntStruct.c",
+              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\stackIntStruct.c",
+              "RelativeToolTip": "DataStructure\\stackIntStruct.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-16T05:04:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "stackChar.c",
               "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stackChar.c",
               "RelativeDocumentMoniker": "DataStructure\\stackChar.c",
@@ -47,27 +76,7 @@
               "RelativeToolTip": "DataStructure\\stackChar.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-16T04:46:54.437Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 649,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "stackInt.c",
-              "DocumentMoniker": "C:\\cworks\\DataStructure\\DataStructure\\stackInt.c",
-              "RelativeDocumentMoniker": "DataStructure\\stackInt.c",
-              "ToolTip": "C:\\cworks\\DataStructure\\DataStructure\\stackInt.c",
-              "RelativeToolTip": "DataStructure\\stackInt.c",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-16T04:09:27.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T04:46:54.437Z"
             }
           ]
         },

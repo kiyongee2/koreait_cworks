@@ -24,5 +24,11 @@
     <ClCompile Include="stackIntStruct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="stringReverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queueEx.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

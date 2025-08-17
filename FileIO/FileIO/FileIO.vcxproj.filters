@@ -24,5 +24,17 @@
     <ClCompile Include="asciiWrite.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="asciiRead.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileAppend.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fileGugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="structPerson.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

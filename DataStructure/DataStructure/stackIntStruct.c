@@ -40,17 +40,22 @@ int main()
 
 	initStack(&stack); //초기화 함수 호출
 
-	//요소 추가
+	//요소 추가(80 - 70 - 95 - 85)
 	push(&stack, 80);
 	push(&stack, 70);
 	push(&stack, 95);
 	push(&stack, 85);
-	push(&stack, 100);
+	//push(&stack, 100);
 
 	puts("=== 스택에서 요소 삭제 ===");
+	/*printf("%d\n", pop(&stack));
 	printf("%d\n", pop(&stack));
 	printf("%d\n", pop(&stack));
 	printf("%d\n", pop(&stack));
-	printf("%d\n", pop(&stack));
-	printf("%d\n", pop(&stack)); //pop() 오류
+	printf("%d\n", pop(&stack));*/ //pop() 오류
+
+	//요소 삭제(85 - 95 - 70 - 80 )
+	while (stack.top != -1) { //안전한 제거
+		printf("%d ", pop(&stack));
+	}
 }
